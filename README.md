@@ -15,7 +15,7 @@ Prints sent/rejected email status in the terminal and automatically create text 
 ## Required Excel Format
 Your Excel file must contain an `email` column.
 # Example: columns in Excel sheet ---> | name | email |
-| Rahul | rahul@example.com |
+| Rahul | rahul@example.com |,
 | Priya | priya@example.com |
 
 ## Important Code Settings
@@ -23,10 +23,10 @@ Your Excel file must contain an `email` column.
 EXCEL_FILE_PATH = r"C:\Users\YourName\Desktop\students.xlsx"
 
 # Update Subject, To, From details and Batch settings
-![Project Screenshot](Image1.png)
+![Project Screenshot](Image1)
 
 # Install dependencies and Gmail App Password 
 ![Project Screenshot](Image2.png)
 
 # Run The Code
-![Project Screenshot](Image3.png)
+![Project Screenshot](Image3)
